@@ -30,7 +30,7 @@ A powerful Discord Nuke tool &amp; Token Grabber Tool
 You must have a valid license key to use this tool.  
 **Here is a One Month Free Key:**  
 ```
-OverloadOps V2s  
+Overload V3  
 ```
 
 Contact the author to obtain a key.
