@@ -28,10 +28,6 @@ A powerful Discord Nuke tool &amp; Token Grabber Tool
 ## License Key
 
 You must have a valid license key to use this tool.  
-**Here is a One Month Free Key:**  
-```
-Overload V3  
-```
 
 Contact the author to obtain a key.
 ---
