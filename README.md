@@ -42,7 +42,7 @@ The author is not responsible for any misuse or damage.
 
 ## Credits
 
-- Developed by IntrovertIRL
+- Developed by OverloadOps
 
 ---
 
