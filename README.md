@@ -46,7 +46,7 @@ The author is not responsible for any misuse or damage.
 
 ---
 
-![Tool Preview](https://github.com/user-attachments/assets/a1f90760-dc21-44eb-b625-3d9b1181a9ae)
+![Tool Preview](https://github.com/user-attachments/assets/b7a2df4d-6979-41a9-ab42-d9e9ad43f23b)
 
 ## Contact
 
